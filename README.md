@@ -8,7 +8,7 @@ Este jogo é um pouco confuso de explicar, por isso usarei um exemplo:
 Número total de peças: 10
 Número máximo de peças a serem retiradas: 3
 
-Jogador 1: Tira 3 peças, sobram 7 |
+<p>Jogador 1: Tira 3 peças, sobram 7 |</p>
 Jogador 2: Tira 2 peças, sobram 5 |
 Jogador 1: Tira 2 peças, sobram 3 |
 Jogar 2: Tira 3 peças, acabaram as peças e ele ganhou o jogo!
