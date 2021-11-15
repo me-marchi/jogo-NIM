@@ -8,9 +8,11 @@
 <p>Número total de peças: 10</p>
 <p>Número máximo de peças a serem retiradas: 3</p>
 
-<p>Jogador 1: Tira 3 peças, sobram 7 </p>
-<p>Jogador 2: Tira 2 peças, sobram 5 </p>
-<p>Jogador 1: Tira 2 peças, sobram 3 </p>
-<p>Jogar 2: Tira 3 peças, acabaram as peças e ele ganhou o jogo!</p>
+<ul>
+  <li>Jogador 1: Tira 3 peças, sobram 7 </li>
+  <li>Jogador 2: Tira 2 peças, sobram 5 </li>
+  <li>Jogador 1: Tira 2 peças, sobram 3 </li>
+  <li>Jogar 2: Tira 3 peças, acabaram as peças e ele ganhou o jogo!</li>
+</ul>
 
 <p>Desta forma, o programa foi construído de modo que o computador sempre ganhará o jogo. Dependendo dos valores inseridos pelo usuário, o programa decide se o usuário deve começar ou o computador, de modo a sempre garantir a vitória do computador. </p>
